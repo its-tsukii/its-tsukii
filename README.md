@@ -1,167 +1,39 @@
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner" width="100%">
-</p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hi+There!+👋;I'm+AAYUSH KUKADE;Learning to code one project at a time | CS student | Music lover and Tea snob | Always Learning." alt="Typing SVG" />
-  </a>
-</h1>
-
 <div align="center">
+<img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
+<!--img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"-->
+</div><h1 align="center">I am Shambhavi Mishra</h1>
+<h3 align="center">Either a null stack developer or a fool stack developer</h3>
+<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad">
+<!--<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/60503578-ac7d-483d-bf6a-0ba07f9b09d7"-->
 
-![Profile Views](https://komarev.com/ghpvc/?username=its-tsukii&color=blueviolet&style=for-the-badge)
 
-<img src="https://avatars.githubusercontent.com/u/124243640?v=4" width="200" height="200" style="border-radius: 50%;" alt="Profile Picture"/>
+<!--<img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nebulatris&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
 
-<blockquote>
-<p><em>"Learning to code one project at a time | CS student | Music lover and Tea snob | Always Learning."</em></p>
-</blockquote>
+- 🔭 I’m currently working on **Machine Learning and Full Stack**
 
-<a href='https://github.com/its-tsukii' target='_blank'><img alt='GitHub' src='https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white' /></a> <a href='mailto:example@email.com' target='_blank'><img alt='Email' src='https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> <a href='https://linkedin.com/in/its-tsukii' target='_blank'><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+- 🌱 I’m currently deciphering **on what to learn or what not to** (Aka Stuck in Tutorial Hell)
 
-</div>
+- 👯 I’m looking to collaborate on **Full Stack and Machine Learning**
 
----
+- ⚡ Fun fact - **An avid youtube and reddit wanderer**
+<br><br>
 
-<details open>
-<summary><h2>🚀 About Me</h2></summary>
+<h1 style="display: inline;">💻 Tech Stack:</h1>
 
-- 🔭 I'm currently working on **3d-portfolio-website**
-- 🌱 I'm currently learning **advanced development techniques**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **JavaScript, Jupyter Notebook, HTML**
-- 📫 How to reach me: GitHub Messages
-- 🌍 Location: Earth
-- ⚡ Fun fact: The first computer bug was an actual bug!
-</details>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+<!--<img align="right" width="300" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
+<img  src="https://streak-stats.demolab.com?user=NebulaTris&theme=aura&hide_border=true&card_width=550"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=NebulaTris&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<!--<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebulaTris&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>->
+<!--<img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/langs?time_range=one_year&theme=dark"/>&ensp; <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/repos?time_range=one_year&theme=dark"/>-->
 
----
+# 🏆 GitHub Trophies
+<!--<img src="https://github-profile-trophy.vercel.app/?username=NebulaTris&theme=onestar&no-frame=false&no-bg=true&margin-w=4" />-->
+<img src="https://github-trophies.vercel.app/?username=NebulaTris&theme=onestar&no-frame=true" width="800"/>
 
-<details open>
-<summary><h2>📊 GitHub Stats & Activity</h2></summary>
+# ✨ Badges
+[![An image of @nebulatris's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nebulatris)](https://holopin.io/@nebulatris)
 
-<h3 align="center">🔥 Streak Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-tsukii&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<h3 align="center">💻 GitHub Profile Stats</h3>
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=its-tsukii&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-tsukii&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<h3 align="center">📈 Activity Graph</h3>
-<p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=its-tsukii&theme=redical&hide_border=true" />
-</p>
-</details>
-
----
-
-<details open>
-<summary><h2>🛠️ My Tech Stack</h2></summary>
-<div align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Jupyter%20Notebook-lightgrey?style=for-the-badge&logo=jupyter notebook&logoColor=white" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=shell&logoColor=white" alt="Shell" /> 
-
-<h3>Languages</h3>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
-
-<h3>Frameworks</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Node%2Ejs-339933?style=for-the-badge&logo=nodejs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> 
-
-<h3>Databases</h3>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
-
-<h3>Tools</h3>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> 
-</div>
-</details>
-
----
-
-<details open>
-<summary><h2>🏆 GitHub Achievements</h2></summary>
-<div align="center">
-
-![Stars](https://img.shields.io/badge/Stars-0-gold?style=for-the-badge&logo=github)
-![Repositories](https://img.shields.io/badge/Repos-18-blue?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-0-blueviolet?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/badge/Forks-0-green?style=for-the-badge&logo=github)
-![Contributions](https://img.shields.io/badge/Contributions-30+-orange?style=for-the-badge&logo=git)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-tsukii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-</div>
-</details>
-
----
-
-<details open>
-<summary><h2>🔥 Top Repositories</h2></summary>
-<div align="center">
-
-<a href="https://github.com/its-tsukii/3d-portfolio-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-tsukii&repo=3d-portfolio-website&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/its-tsukii/book-recsys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-tsukii&repo=book-recsys&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/its-tsukii/chatify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-tsukii&repo=chatify&theme=radical&hide_border=true" />
-</a>
-
-</div>
-</details>
-
----
-
-<details>
-<summary><h2>📝 Latest Blog Posts</h2></summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Create an Amazing GitHub Profile](https://example.com/blog1)
-- [Top 10 Programming Tips](https://example.com/blog2)
-- [Getting Started with Open Source](https://example.com/blog3)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
----
-
-<details>
-<summary><h2>🎮 When I'm Not Coding</h2></summary>
-<div align="center">
-<img src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif" width="200" height="200">
-
-- 🎮 Playing video games
-- 📚 Reading tech blogs
-- 🎧 Listening to music
-- 🚶 Exploring new places
-
-</div>
-</details>
-
----
-
-<div align="center">
-
-### 🙏 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-
-<h3>Support Me</h3>
-<p>
-<a href="https://www.buymeacoffee.com/{username}" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
-
-<p align="center">Created with ❤️ by {self.admin_name} - v{self.version}</p>
-
-</div>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
