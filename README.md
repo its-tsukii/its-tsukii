@@ -5,8 +5,7 @@
   </picture>
 </a>
 <div align="center">
-  <!-- Custom banner with a fresh vibe -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=#!/usr/bin/env%20aayush;Always%20deploying%20chaos%20in%20containers;sudo%20apt-get%20life%20together;DevOps%20is%20my%20love%20language&center=true&width=1000&height=45&color=F7F7F7&vCenter=true&size=22" />
+  <h1> No, I aint Got a custom banner TEEHEE </h1>
 </div>
 
 <h1 align="center">Hey, I'm Aayush Kukade 👨‍💻</h1>
