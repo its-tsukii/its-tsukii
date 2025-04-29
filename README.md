@@ -6,8 +6,12 @@
 </a>
 
 <div align="center">
-  <h1> No, I aint Got a custom banner TEEHEE </h1>
+  <h1> No, I aint Got a custom banner , All you see here is taken from the globe : TEEHEE </h1>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Aayush+Kukade;Cloud/Devops+Engineer" alt="Business Analyst"/>
+</a>
 
 <h1 align="center">Hey, I'm Aayush Kukade 👨‍💻</h1>
 <h3 align="center">I break prod, fix it, and call it a learning experience ☁️🛠️</h3>
@@ -93,3 +97,7 @@
 
 > "Currently scripting life one pipeline at a time. If it works, it was intentional. If it doesn’t, it’s a feature."
 
+> The acii image at the start is taken from ![@Andrew6Rant](https://github.com/Andrew6rant)
+ The other contents in the body is taken from ![@NebulaTetris](https://github.com/NebulaTris)
+ The Banner and the typing svg is taken from ![@DariaStanilevici](https://github.com/daria-stanilevici)
+ ---
