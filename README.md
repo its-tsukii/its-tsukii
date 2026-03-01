@@ -10,7 +10,7 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Aayush+Kukade;Cloud/Devops+Engineer" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Aayush+Kukade;Backend/Fullstack+Engineer" alt="Business Analyst"/>
 </a>
 
 <h1 align="center">Hey, I'm Aayush Kukade 👨‍💻</h1>
@@ -23,17 +23,13 @@
 </p>
 
 - 💻 MCA student + Programming diploma from IIT Madras — yes, I like academic pain.
-- 🛠️ Currently doing DevOps internship @ BluePlanet Solutions and fighting YAML demons daily.
-- ☁️ Passionate about all things cloud, infra, automation, and overengineering my dotfiles.
-- 🧪 Previously interned at:
-  - **Uptoskills (Cloud Computing)** — where I learned what a cloud *actually* is
-  - **YBI Foundation (Python)** — wrote more print statements than actual code
-  - **Microsoft TechSaksham (AI/ML)** — where I let Python do the thinking for me
+- 🛠️ Currently i dont know what im doing and also fighting buggy demons of backend meyham daily.
+- ☁️ Passionate about all things backend, cloud, ml infra, automation, and overengineering my dotfiles.
 - 🤓 I'm a generalist, or as HR calls it, “flexible and billable in multiple domains.”
 - 🤐 IRL: introvert × music addict × workaholic × keyboard smasher
 - 🧘 “If it builds on the first try, I don’t trust it.”
 - 🔗 Portfolio: [its-tsukii.github.io/3d-portfolio-website](https://its-tsukii.github.io/3d-portfolio-website/)
-- 📆 Born on **10-01-2001** — coded to exist in binary.
+- 📆 Born on **10-01-2001** — Yes coded to exist in binary (except the 2).
 
 ---
 
