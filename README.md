@@ -22,13 +22,13 @@
   <img src="https://komarev.com/ghpvc/?username=its-tsukii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 💻 MCA student + Programming diploma from IIT Madras — yes, I like academic pain.
+- 💻 MCA + Programming diploma from IIT Madras — yes, I like academic pain.
 - 🛠️ Currently i dont know what im doing and also fighting buggy demons of backend meyham daily.
 - ☁️ Passionate about all things backend, cloud, ml infra, automation, and overengineering my dotfiles.
 - 🤓 I'm a generalist, or as HR calls it, “flexible and billable in multiple domains.”
-- 🤐 IRL: introvert × music addict × workaholic × keyboard smasher
+- 🤐 IRL: introvert × music addict × keyboard smasher
 - 🧘 “If it builds on the first try, I don’t trust it.”
-- 🔗 Portfolio: [its-tsukii.github.io/3d-portfolio-website](https://its-tsukii.github.io/3d-portfolio-website/)
+- 🔗 Portfolio: [its-tsukii.github.io/Aayush-portfolio/](https://its-tsukii.github.io/Aayush-portfolio/)
 - 📆 Born on **10-01-2001** — Yes coded to exist in binary (except the 2).
 
 ---
